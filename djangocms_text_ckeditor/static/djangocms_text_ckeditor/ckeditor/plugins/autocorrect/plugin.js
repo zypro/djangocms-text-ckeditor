@@ -173,7 +173,7 @@
 				command: 'toggleAutocorrect'
 			};
 
-			uiMenuItems.autoCorrectNow = {
+/*			uiMenuItems.autoCorrectNow = {
 				label: lang.autocorrectNow,
 				command: 'autocorrect',
 				group: menuGroup
@@ -183,7 +183,7 @@
 				label: lang.options,
 				command: 'autocorrectOptions',
 				group: menuGroup
-			};
+			};*/
 
 			editor.addMenuItems( uiMenuItems );
 
